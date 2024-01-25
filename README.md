@@ -1,4 +1,4 @@
-# PalWorld-Sercer-Unoffical-Fix
+# PalWorld-Server-Unoffical-Fix
 This is an unofficial palworld server binary distribution project that fixes some problems with the original server.
 
 ## Fix what?
@@ -14,7 +14,10 @@ Download binary from [Release](https://github.com/VeroFess/PalWorld-Server-Unoff
 ## It's safe?
 Well, I personally swear not to insert harmful code, but if you don't believe me you can check using a tool like bindiff.
 
-这是一个非官方的 palworld 服务器二进制分发项目，修复了原始服务器的一些问题。
+-----
+
+# PalWorld 服务器非官方修复
+这是一个非官方的 PalWorld 服务器二进制分发项目，修复了原始服务器的一些问题。
 
 ## 修复了什么？
 - [x] 来自“SymbolInfoToHumanReadableString”的内存泄漏和高 CPU 负载
