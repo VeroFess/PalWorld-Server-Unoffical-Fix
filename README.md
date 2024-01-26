@@ -1,3 +1,6 @@
+# Warn! It is very possible that there are two different servers in Linux! The basic server I use is Palworld Dedicated Server (ID: 2394010). Some people reported that the appid is different after replacing the file. Please check in advance!
+# 警告！Linux很有可能存在两个不同的服务端！我使用的基础服务端为 Palworld Dedicated Server (ID：2394010 )，有人反馈替换文件后出现appid不同的问题，请提前检查！
+
 # PalWorld-Server-Unoffical-Fix
 This is an unofficial palworld server binary distribution project that fixes some problems with the original server.
 
