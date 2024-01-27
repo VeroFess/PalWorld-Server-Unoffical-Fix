@@ -1,5 +1,14 @@
-# Warn! It is very possible that there are two different servers in Linux! The basic server I use is Palworld Dedicated Server (ID: 2394010). Some people reported that the appid is different after replacing the file. Please check in advance!
-# 警告！Linux很有可能存在两个不同的服务端！我使用的基础服务端为 Palworld Dedicated Server (ID：2394010 )，有人反馈替换文件后出现appid不同的问题，请提前检查！
+#### Warn! It is very possible that there are two different servers in Linux! The basic server I use is Palworld Dedicated Server (ID: 2394010). Some people reported that the appid is different after replacing the file. Please check in advance!
+#### 警告！Linux很有可能存在两个不同的服务端！我使用的基础服务端为 Palworld Dedicated Server (ID：2394010 )，有人反馈替换文件后出现appid不同的问题，请提前检查！
+
+-----
+
+#### Now we have Discord! Some friends and I believe this game has great potential, so we're preparing to create an unofficial server-side script system for it. Of course, if you have any questions about unofficial fixes, we also have a dedicated channel for that!
+#### 现在我们有了Discord! 我和一些朋友认为这个游戏非常有潜力，所以我们准备为他制作非官方的仅服务端脚本系统。当然如果你有关于非官方修复的问题我们也有对应的频道！
+
+[Discord](https://discord.gg/BFHEH2Mem5)
+
+-----
 
 # PalWorld-Server-Unoffical-Fix
 This is an unofficial palworld server binary distribution project that fixes some problems with the original server.
