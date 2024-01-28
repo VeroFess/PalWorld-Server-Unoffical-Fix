@@ -10,6 +10,8 @@ If you are interested, please visit https://github.com/VeroFess/PalWorld-Server-
 
 VeroFess 2024-01-29
 
+* I was referring to the last official update, which is equivalent to version 1.3.1, even though they did not update the version number.
+
 -----
 
 ### PalWorld-Server-Unoffical-Fix 的时代结束了！
@@ -23,6 +25,8 @@ VeroFess 2024-01-29
 如果你感兴趣，请访问 https://github.com/VeroFess/PalWorld-Server-Unoffical-Api
 
 VeroFess 2024-01-29
+
+* 我指的是最后一次官方更新，相当于1.3.1版本，尽管他们没有更新版本号。
 
 -----
 -----
