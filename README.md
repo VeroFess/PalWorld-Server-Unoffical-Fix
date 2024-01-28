@@ -1,3 +1,33 @@
+### The era of PalWorld-Server-Unofficial-Fix has come to an end!
+
+Thank you all for your support! Currently, in the server version 1.3.1 of the game, the memory leak issue has been officially fixed. The current problem of excessive memory usage in some systems is mainly due to the allocation of too many objects, which is not something third-party fix programs should address. Please give the official team some time.
+
+In the future, optimized binary files will be provided for Linux as I have some IDC friends who need them.
+
+In the future, I will focus on API development, allowing us to intervene in the game's logic on the server side, enabling projects such as server-side anti-cheat implementations.
+
+If you are interested, please visit https://github.com/VeroFess/PalWorld-Server-Unoffical-Api
+
+VeroFess 2024-01-29
+
+-----
+
+### PalWorld-Server-Unoffical-Fix 的时代结束了！
+
+非常感谢大家的喜爱！目前，在游戏的1.3.1版本的服务端中， 内存泄漏的部分已经被官方修复，目前部分系统中占用过多内存的问题仅仅是由于分配了过多的对象，这不是第三方修复程序应该做的，请给官方一些时间
+
+之后，该项目将会针对 Linux 提供优化版的二进制文件，这是因为我有一些 IDC 朋友需要它们
+
+未来，我将专注于对 API 的开发，这将允许我们在服务端干涉游戏的逻辑，实现类似服务端反作弊之类的项目。
+
+如果你感兴趣，请访问 https://github.com/VeroFess/PalWorld-Server-Unoffical-Api
+
+VeroFess 2024-01-29
+
+-----
+-----
+
+
 #### Warn! It is very possible that there are two different servers in Linux! The basic server I use is Palworld Dedicated Server (ID: 2394010). Some people reported that the appid is different after replacing the file. Please check in advance!
 #### 警告！Linux很有可能存在两个不同的服务端！我使用的基础服务端为 Palworld Dedicated Server (ID：2394010 )，有人反馈替换文件后出现appid不同的问题，请提前检查！
 
